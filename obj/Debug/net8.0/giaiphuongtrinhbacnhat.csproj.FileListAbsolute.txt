@@ -1,0 +1,14 @@
+E:\giaiphuongtrinhbacnhat\bin\Debug\net8.0\giaiphuongtrinhbacnhat.exe
+E:\giaiphuongtrinhbacnhat\bin\Debug\net8.0\giaiphuongtrinhbacnhat.deps.json
+E:\giaiphuongtrinhbacnhat\bin\Debug\net8.0\giaiphuongtrinhbacnhat.runtimeconfig.json
+E:\giaiphuongtrinhbacnhat\bin\Debug\net8.0\giaiphuongtrinhbacnhat.dll
+E:\giaiphuongtrinhbacnhat\bin\Debug\net8.0\giaiphuongtrinhbacnhat.pdb
+E:\giaiphuongtrinhbacnhat\obj\Debug\net8.0\giaiphuongtrinhbacnhat.GeneratedMSBuildEditorConfig.editorconfig
+E:\giaiphuongtrinhbacnhat\obj\Debug\net8.0\giaiphuongtrinhbacnhat.AssemblyInfoInputs.cache
+E:\giaiphuongtrinhbacnhat\obj\Debug\net8.0\giaiphuongtrinhbacnhat.AssemblyInfo.cs
+E:\giaiphuongtrinhbacnhat\obj\Debug\net8.0\giaiphuongtrinhbacnhat.csproj.CoreCompileInputs.cache
+E:\giaiphuongtrinhbacnhat\obj\Debug\net8.0\giaiphuongtrinhbacnhat.dll
+E:\giaiphuongtrinhbacnhat\obj\Debug\net8.0\refint\giaiphuongtrinhbacnhat.dll
+E:\giaiphuongtrinhbacnhat\obj\Debug\net8.0\giaiphuongtrinhbacnhat.pdb
+E:\giaiphuongtrinhbacnhat\obj\Debug\net8.0\giaiphuongtrinhbacnhat.genruntimeconfig.cache
+E:\giaiphuongtrinhbacnhat\obj\Debug\net8.0\ref\giaiphuongtrinhbacnhat.dll
